@@ -1,18 +1,19 @@
-# Trello-clone
+# Trelo-Clone
 
-It’s a simple task management website with a modern design. Designed for a small team and short-term projects. Supports multiple browsers and devices. Allows you to track progress of other team members, create and edit tasks, and even delete them.
+É um site simples de gerenciamento de tarefas com design moderno. Projetado para uma equipe pequena e projetos de curto prazo. Suporta vários navegadores e dispositivos. Permite acompanhar o progresso de outros membros da equipe, criar e editar tarefas e até mesmo excluí-las.
 
-Functions implemented:
-1.	Create new task boards
-2.	Create new tasks
-3.	Copy all tasks to a new board
-4.	Drag and drop tasks
-5.	Deleting tasks
-6.	Removing boards
-7.	For each double-click task, there is a modal window where you can add a description of the task, and any comments
-8.	All data is stored in the browser's local storage
+Funções implementadas:
+1. Crie novos quadros de tarefas
+2. Crie novas tarefas
+3. Copie todas as tarefas para um novo quadro
+4. Arraste e solte tarefas
+5. Excluindo tarefas
+6. Removendo placas
+7. Para cada tarefa de clique duplo, há uma janela modal onde você pode adicionar uma descrição da tarefa e quaisquer comentários
+8. Todos os dados são armazenados no armazenamento local do navegador
 
-Technologies used:
+
+Tecnologias utilizadas:
 - HTML, CSS, Javascript
 - Parcel
 - Semantic UI framework
@@ -21,7 +22,7 @@ Technologies used:
 -	Swiper.js
 -	DiceBear library
 
-Supported browsers:
+Navegadores suportados:
 -	Chrome
 -	Firefox
 -	Edge
